@@ -2,7 +2,7 @@
 
 ## Build
 
-```erlang
+```
 rebar get-deps
 rebar compile
 ```
