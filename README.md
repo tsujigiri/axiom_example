@@ -1,4 +1,4 @@
-# Axiom Test App
+# Axiom Example App
 
 ## Build
 
