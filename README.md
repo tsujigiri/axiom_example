@@ -11,9 +11,5 @@ rebar compile
 
 ```erlang
 erl -pa ebin deps/*/ebin
-1> application:start(crypto).
-2> application:start(ranch).
-3> application:start(cowboy).
-4> axiom_test:start().
+1> application:start(axiom_test).
 ```
-
